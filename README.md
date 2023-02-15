@@ -1,1 +1,16 @@
 # Search-Engine-Scrapper
+This is a Python program that scrapes the Top Trending Questions and Suggestions from search results from popular search engines and saves the results to a CSV file. The program uses the requests library to send HTTP requests to search engine websites, and the PyTrends library to parse the HTML responses and extract search results and Html.parser provides an easy way to extract data from web pages and convert them into structured data that can be used in other applications.
+# Requirements
+Python 3.x,
+requests,
+Pytrends,
+html.parser
+
+# Usage
+To use the program, simply run the team8-trending-data.ipynb file. The program will prompt you to enter a search query where you can put a keyword. The program will then scrape out the  'how','what','when','where','are', 'is', 'why', 'can' + Keyword Questions and Top Trending Questions in Alphabetic Order and Related Topic Titles And Types With Rising Interest and Top Searched Related Topic Titles and Types and Related Queries With Rising Interest And Their Search Values and Visualization of  Web Search Interest Over Time of that Keyword from Google, Bing, and Yahoo search engines 
+# Contributing
+Feel free to contribute to this project by forking the repository and submitting pull requests. Bug reports and feature requests are also welcome.
+
+# License
+This project is licensed under the MIT License. 
+See the LICENSE file for details.
