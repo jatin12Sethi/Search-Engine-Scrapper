@@ -1,5 +1,8 @@
 # Search-Engine-Scrapper
 This is a Python program that scrapes the Top Trending Questions and Suggestions from search results from popular search engines. The program uses the requests library to send HTTP requests to search engine websites, and the PyTrends library to parse the HTML responses and extract search results and Html.parser provides an easy way to extract data from web pages and convert them into structured data that can be used in other applications.
+
+The suggestions generated might vary in respect to the web search history.
+
 # Requirements
 Python 3.x,
 requests,
