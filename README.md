@@ -8,10 +8,6 @@ The suggestions generated might vary in respect to the web search history.
 
 # Hosted Link
 https://search-deployed.streamlit.app/
-## Step1-Click on the link
-## Step2-Enter the Keyword in that specific Area
-## Step3-According to your Requirements You want to Generate Trending data or Top trending Questions for that keyword
-## step4-End
 
 # Requirements
 Python 3.x,
