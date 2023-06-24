@@ -6,6 +6,12 @@ The suggestions generated might vary in respect to the web search history.
 # Techincal WorkFlow
 ![Beige Colorful Minimal Flowchart Infographic Graph (4)](https://github.com/jatin12Sethi/Search-Engine-Scrapper/assets/98033741/22190c97-9ada-4c60-86e7-b12ca52868c1)
 
+# Hosted Link
+https://search-deployed.streamlit.app/
+Step1-Click on the link
+Step2-Enter the Keyword in that specific Area
+Step3-According to your Requirements You want to Generate Trending data or Top trending Questions for that keyword
+step4-End
 
 # Requirements
 Python 3.x,
