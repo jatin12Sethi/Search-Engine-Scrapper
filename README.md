@@ -3,6 +3,10 @@ This is a Python program that scrapes the Top Trending Questions and Suggestions
 
 The suggestions generated might vary in respect to the web search history.
 
+# Techincal WorkFlow
+![Beige Colorful Minimal Flowchart Infographic Graph (4)](https://github.com/jatin12Sethi/Search-Engine-Scrapper/assets/98033741/22190c97-9ada-4c60-86e7-b12ca52868c1)
+
+
 # Requirements
 Python 3.x,
 requests,
